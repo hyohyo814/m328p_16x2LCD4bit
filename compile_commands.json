@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/avr-gcc",
+      "-DF_CPU=16000000UL",
+      "-mmcu=atmega328p",
+      "-c",
+      "-o",
+      "main.o",
+      "main.c"
+    ],
+    "directory": "/home/hyohyo814/cstuff/arduino/lcd",
+    "file": "/home/hyohyo814/cstuff/arduino/lcd/main.c",
+    "output": "/home/hyohyo814/cstuff/arduino/lcd/main.o"
+  }
+]
